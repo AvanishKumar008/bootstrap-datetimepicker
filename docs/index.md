@@ -199,7 +199,7 @@
         <script type="text/javascript">
             $(function () {
                 $('#datetimepicker3').datetimepicker({
-                    format: 'LT'
+                    format: 'L'
                 });
             });
         </script>
